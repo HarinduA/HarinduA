@@ -1,10 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @HarinduA
-👀 I’m interested in learning program languages
-🌱 I’m currently learning progrmming languages in a university
-📫 I'm a student in Informatics Institude of Technology
-💬 Ask me about
-⚡ Fun fact
+🔭 Hi, I’m @HarinduA<br>👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>I'm a student in Informatics Institude of Technology<br>💬 Ask me about reality<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
