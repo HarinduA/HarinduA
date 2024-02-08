@@ -2,7 +2,9 @@
 👋 Hi, I’m @HarinduA
 👀 I’m interested in learning program languages
 🌱 I’m currently learning progrmming languages in a university
-📫 I'm a student in Informatics Institude of Technology>💬 Ask me about<br>⚡ Fun fact
+📫 I'm a student in Informatics Institude of Technology
+💬 Ask me about
+⚡ Fun fact
 
 
 ## 🌐 Socials:
