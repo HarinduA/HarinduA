@@ -1,4 +1,4 @@
-# 💫 Hello Harindu Adhikari is there
+# 👋🏻 Hello Harindu is there
 👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Ask me about reality<br>⚡ Fun fact
 
 
