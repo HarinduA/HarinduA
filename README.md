@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m @HarinduA<br>👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Ask me about reality<br>⚡ Fun fact
+# 💫 Hello Harindu Adhikari is there
+👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Ask me about reality<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
