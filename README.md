@@ -1,5 +1,5 @@
 # 👋🏻 Hello Harindu is there
-👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Ask me about reality<br>💬 Reach me out through - harinduadhikari@gmail.com
+👀 I’m interested in learning program languages<br>🌱 I’m currently learning progrmming languages in a university<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Reach me out through - harinduadhikari@gmail.com<br>
 
 
 ## 🌐 Socials:
