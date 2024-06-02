@@ -1,4 +1,4 @@
-<img height=300 width=1240 src="new2.jpeg" alt="">
+<img height=300 width=1240 src="banner.jpeg" alt="">
 
 <h1 align="center">Hello Harindu is there</h1>
 <h3 align="center">A Programmer and Software Developer 🖥️</h3>
@@ -40,9 +40,9 @@
 ## 📈 GitHub Statistics
 
 <p align="start">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduA&theme=codeSTACKr&layout=compact&langs_count=8"/>
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarinduA&theme=tokyonight&layout=compact&langs_count=8"/>
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=tokyonight"/>
 </p>
 
 <a href="https://visitcount.itsvg.in">
