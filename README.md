@@ -1,6 +1,11 @@
 # 👋🏻 Hello Harindu is there
 👀 I’m interested in learning programming languages<br>🌱  I’m currently studying programming languages at a universityy<br>📫Informatics Institude of Technology undergraduate Software Engineer<br>💬 Reach me out through - harinduadhikari@gmail.com<br>
 
+[![An image of @harindua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harindua)](https://holopin.io/@harindua)
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harindu-adhikari-201269243/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@harinduadhikari) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/HarinduAdhikari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC1t2HZbzR_a1ekpeh9eb-FA) 
