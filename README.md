@@ -3,12 +3,11 @@
 <h1 align="center">Hello Harindu is there</h1>
 <h3 align="center">A Programmer and Software Developer 🖥️</h3>
 
-
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-# About <span style="color:#FF9102">Me:
+# About <span style="color:#FF9102">Me:</span>
 👀 I’m interested in learning programming languages <br>
 🌱 I’m currently studying programming languages at a university <br>
 📫 Informatics Institute of Technology undergraduate Software Engineer <br>
@@ -19,7 +18,7 @@
 <a href="https://x.com/HarinduAdhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HarinduAdhikari" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/harindu-adhikari-201269243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harindu Adhikari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=61557542183984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Harindu Adhikari" height="30" width="40" /></a>
-<a href="https://medium.com/@harinduadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Harindu Adhikari" height="30" width="40" /></a>
+<a href="https://medium.com/@harinduadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Harindu Adhikari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
