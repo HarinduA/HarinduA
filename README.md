@@ -1,6 +1,6 @@
 <img height=300 width=1240 src="new2.jpeg" alt="">
 
-<h1 align="center">Hello Harindu is there</h1>
+<h1 align="center">Hello!  Harindu is there</h1>
 <h3 align="center">A Programmer and Software Developer 🖥️</h3>
 
 <br>
