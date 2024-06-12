@@ -1,4 +1,4 @@
-<img height=300 width=1240 src="new2.jpeg" alt="">
+<img height=300 width=1240 src="ino.jpeg" alt="">
 
 <h1 align="center">Hello!  Harindu is there</h1>
 <h3 align="center">19 years old Undergraduate software engineer</h3>
