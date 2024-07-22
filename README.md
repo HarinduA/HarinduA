@@ -5,8 +5,6 @@
 
 <br>
 <br>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 # About <span style="color:#FF9102">Me:</span>
 👀 I’m interested in learning programming languages <br>
 🌱 I’m currently studying programming languages at a university <br>
