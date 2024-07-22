@@ -71,9 +71,6 @@
   <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sonarsource_sonarqube/sonarsource_sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
-  </a>
 </p>
 
 ## 📈 GitHub Statistics
