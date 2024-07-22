@@ -78,7 +78,7 @@
 
 ## 📈 GitHub Statistics
 <p align="start">
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinuda&" alt="dinuda" background/>
   <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=tokyonight"/>
 </p>
 
