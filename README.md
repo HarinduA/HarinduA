@@ -77,10 +77,8 @@
 </p>
 
 ## 📈 GitHub Statistics
-
-
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=HarinduA&label=Profile%20Views&color=2&icon=0&pretty=true" />
-</a>
+<p align="start">
+  
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=tokyonight"/>
+</p>
 
