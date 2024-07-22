@@ -88,6 +88,3 @@
   <img src="https://visitcount.itsvg.in/api?id=HarinduA&label=Profile%20Views&color=2&icon=0&pretty=true" />
 </a>
 
-## 🦖 Holopin Badges
-
-[![An image of @harindua's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harindua)](https://holopin.io/@harindua)
