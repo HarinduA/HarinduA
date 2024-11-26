@@ -6,9 +6,7 @@
 
 <br>
 <br>
-# About <span style="color:#FF9102">Me:</span>
-👀 I’m interested in learning programming languages <br>
-🌱 I’m currently studying programming languages at a university <br>
+ I’m a JavaScript and GraphQL Engineer with a passion for building scalable, high-performance applications.
 📫 Informatics Institute of Technology undergraduate Software Engineer <br>
 💬 Reach me out through - harinduadhikari@gmail.com <br>
 
