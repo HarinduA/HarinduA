@@ -7,8 +7,8 @@
 <br>
 <h4 align="" style="color: orange;">
   <b>🎙️ I'm a JavaScript and GraphQL Engineer specializing in scalable applications, efficient API design, and optimized front-end development. 
-  With a focus on clean code and performance, I strive to build robust solutions for complex challenges. 
-  Currently pursuing a Software Engineering degree at the Informatics Institute of Technology.</b>
+        With a focus on clean code and performance, I strive to build robust solutions for complex challenges. 
+        Currently pursuing a Software Engineering degree at the Informatics Institute of Technology.</b>
 </h4>
 
 <br>
