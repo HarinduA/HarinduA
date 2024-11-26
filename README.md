@@ -6,9 +6,9 @@
 
 <br>
 <br>
- 🎙️I’m a JavaScript and GraphQL Engineer with expertise in building scalable apps, crafting efficient APIs, and designing robust frontends. I’m passionate about clean code, performance, and exploring new tech to solve complex problems.
- 
-📫 Informatics Institute of Technology undergraduate Software Engineer <br>
+ 🎙️ I'm a JavaScript and GraphQL Engineer specializing in scalable applications, efficient API design, and optimized front-end development. With a focus on clean code and performance, I strive to build robust solutions for complex challenges. Currently pursuing a Software Engineering degree at the Informatics Institute of Technology, I’m always exploring new technologies to stay at the forefront of development.
+
+<br>
 <br><br>
 💬 Reach me out through - harinduadhikari@gmail.com <br>
 
