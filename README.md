@@ -18,7 +18,7 @@
 
 <br>
 
-## Reach Me
+## 📱 Reach Me
 <p align="center">
   <a href="https://www.linkedin.com/in/harindu-adhikari-201269243/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
