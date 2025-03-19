@@ -13,7 +13,7 @@
 
 ## 🚀 Stacks and Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,html,css,js,java,docker,figma,gcp,antdesign,csharp" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,github,html,css,js,java,docker,figma,gcp,csharp,antdesign" />
 </p>
 
 <br>
