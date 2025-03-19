@@ -30,7 +30,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.hackerrank.com/profile/harinduadhikari" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="45" height="45"/>
   </a>
 </p>
 
