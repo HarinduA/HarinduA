@@ -11,9 +11,9 @@
 
 <br>
 
-## 🚀 Skills
+## 🚀 Stacks and Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,sql,git,html,css,js,java,docker,figma,gcp,antdesign" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,sql server,git,html,css,js,java,docker,figma,gcp,antdesign" />
 </p>
 
 <br>
