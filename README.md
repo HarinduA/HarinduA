@@ -30,13 +30,12 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.hackerrank.com/profile/harinduadhikari" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 </p>
 
-<br>
 
-💬 Reach me out through - harinduadhikari@gmail.com <br>
+<br>
 
 <br>
 
