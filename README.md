@@ -4,18 +4,23 @@
 <br>
 
 <h4 align="center" style="color: orange;">
-  <b>Hi, I’m Harindu Adhikari — a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.
-•⁠ ⁠Skilled in building responsive, scalable and secure web applications
-•⁠ ⁠Proficient in the full software development life cycle
-•⁠ ⁠Project management: ClickUp
-•⁠ ⁠Prototyping: Figma
-•⁠ ⁠Diagrams: draw.io (class, sequence, architecture, etc.)
-•⁠ ⁠Version control: GitHub ( branching, commits, PR, etc) 
-•⁠ ⁠Database integration: MSSQL Server, MySQL 
-•⁠ ⁠Strong SQL background with Stored Procedures and Triggers
-•⁠ ⁠Experienced in CI/CD deployment on Google Cloud 
-•⁠ ⁠Familiar with AWS
-</b>
+  <h4 align="center" style="color: orange;">
+  <b>Hi, I’m Harindu Adhikari — a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.</b>
+</h4>
+
+<ul align="center" style="color: orange; list-style: none; padding-left: 0;">
+  <li>✅ Skilled in building responsive, scalable, and secure web applications</li>
+  <li>✅ Proficient in the full software development life cycle</li>
+  <li>✅ Project management: ClickUp</li>
+  <li>✅ Prototyping: Figma</li>
+  <li>✅ Diagrams: draw.io (class, sequence, architecture, etc.)</li>
+  <li>✅ Version control: GitHub (branching, commits, PR, etc.)</li>
+  <li>✅ Database integration: MSSQL Server, MySQL</li>
+  <li>✅ Strong SQL background with Stored Procedures and Triggers</li>
+  <li>✅ Experienced in CI/CD deployment on Google Cloud</li>
+  <li>✅ Familiar with AWS</li>
+</ul>
+
 </h4>
 
 <br>
