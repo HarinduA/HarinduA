@@ -9,19 +9,17 @@
 </h4>
 
 <ul align="center" style="color: orange; list-style: none; padding-left: 0;">
-  <li>✅ Skilled in building responsive, scalable, and secure web applications</li>
-  <li>✅ Proficient in the full software development life cycle</li>
-  <li>✅ Project management: ClickUp</li>
-  <li>✅ Prototyping: Figma</li>
-  <li>✅ Diagrams: draw.io (class, sequence, architecture, etc.)</li>
-  <li>✅ Version control: GitHub (branching, commits, PR, etc.)</li>
-  <li>✅ Database integration: MSSQL Server, MySQL</li>
-  <li>✅ Strong SQL background with Stored Procedures and Triggers</li>
-  <li>✅ Experienced in CI/CD deployment on Google Cloud</li>
-  <li>✅ Familiar with AWS</li>
+  <li>Skilled in building responsive, scalable, and secure web applications</li>
+  <li>Proficient in the full software development life cycle</li>
+  <li>Project management: ClickUp</li>
+  <li>Prototyping: Figma</li>
+  <li>Diagrams: draw.io (class, sequence, architecture, etc.)</li>
+  <li>Version control: GitHub (branching, commits, PR, etc.)</li>
+  <li>Database integration: MSSQL Server, MySQL</li>
+  <li>Strong SQL background with Stored Procedures and Triggers</li>
+  <li>Experienced in CI/CD deployment on Google Cloud</li>
+  <li>Familiar with AWS</li>
 </ul>
-
-</h4>
 
 <br>
 
