@@ -4,9 +4,18 @@
 <br>
 
 <h4 align="center" style="color: orange;">
-  <b>🎙️ I'm a JavaScript Engineer specializing in scalable applications, efficient API design, and optimized front-end development. 
-  With a focus on clean code and performance, I strive to build robust solutions for complex challenges. 
-  Currently pursuing a Software Engineering degree at the Informatics Institute of Technology.</b>
+  <b>Hi, I’m Harindu Adhikari — a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.
+•⁠ ⁠Skilled in building responsive, scalable and secure web applications
+•⁠ ⁠Proficient in the full software development life cycle
+•⁠ ⁠Project management: ClickUp
+•⁠ ⁠Prototyping: Figma
+•⁠ ⁠Diagrams: draw.io (class, sequence, architecture, etc.)
+•⁠ ⁠Version control: GitHub ( branching, commits, PR, etc) 
+•⁠ ⁠Database integration: MSSQL Server, MySQL 
+•⁠ ⁠Strong SQL background with Stored Procedures and Triggers
+•⁠ ⁠Experienced in CI/CD deployment on Google Cloud 
+•⁠ ⁠Familiar with AWS
+</b>
 </h4>
 
 <br>
