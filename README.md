@@ -3,12 +3,11 @@
 
 <br>
 
-<h4 align="center" style="color: orange;">
-  <h4 align="center" style="color: orange;">
+<h4 style="color: orange; text-align: left;">
   <b>Hi, I’m Harindu Adhikari — a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.</b>
 </h4>
 
-<ul align="center" style="color: orange; list-style: none; padding-left: 0;">
+<ul style="color: orange; text-align: left;">
   <li>Skilled in building responsive, scalable, and secure web applications</li>
   <li>Proficient in the full software development life cycle</li>
   <li>Project management: ClickUp</li>
