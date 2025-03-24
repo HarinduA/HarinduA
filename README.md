@@ -4,7 +4,9 @@
 <br>
 
 <h4 style="color: orange; text-align: left;">
-  <b>Hi, I’m Harindu Adhikari — a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.</b>
+  <b>I’m passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.With a focus on clean code and performance, I strive to build robust solutions for complex challenges. 
+  Currently pursuing a Software Engineering degree at the Informatics Institute of Technology.
+</b>
 </h4>
 
 <ul style="color: orange; text-align: left;">
