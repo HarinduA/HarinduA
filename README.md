@@ -19,7 +19,7 @@
   <li>Strong SQL background with Stored Procedures and Triggers</li>
   <li>Experienced in CI/CD deployment on Google Cloud</li>
   <li>Familiar with AWS</li>
-  <li>Familiar with MicroServices</li>
+  <li>Familiar with MicroFrontend UI & MicroServices</li>
 </ul>
 
 <br>
