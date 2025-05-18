@@ -4,7 +4,7 @@
 <br>
 
 <h4 style="color: orange; text-align: left;">
-  <b>I’m a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js. With a focus on clean code and performance, I strive to build robust solutions for complex challenges.</b>
+  <b>I’m passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js. With a focus on clean code and performance, I strive to build robust solutions for complex challenges.</b>
 </h4>
 
 <ul style="color: orange; text-align: left;">
@@ -54,7 +54,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarinduA/HarinduA/main/assets/github-stats.png" alt="Harindu Adhikari's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=false" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarinduA&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduA&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
+<br>
+
+<p align="center">
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=github_dark" />
+</p>
+
