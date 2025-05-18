@@ -4,7 +4,7 @@
 <br>
 
 <h4 style="color: orange; text-align: left;">
-  <b>I’m passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js. With a focus on clean code and performance, I strive to build robust solutions for complex challenges.</b>
+  <b>I’m a passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js. With a focus on clean code and performance, I strive to build robust solutions for complex challenges.</b>
 </h4>
 
 <ul style="color: orange; text-align: left;">
@@ -54,9 +54,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&custom_title=HarinduA%27s%20GitHub%20Stats" />
+  <img src="https://raw.githubusercontent.com/HarinduA/HarinduA/main/assets/github-stats.png" alt="Chamod Karunathilake's GitHub Stats" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarinduA&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
-  <br><br>
-
 </p>
