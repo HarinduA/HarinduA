@@ -58,5 +58,5 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarinduA&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=github_dark" />
+ 
 </p>
