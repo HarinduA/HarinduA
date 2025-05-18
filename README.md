@@ -4,8 +4,7 @@
 <br>
 
 <h4 style="color: orange; text-align: left;">
-  <b>I’m passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js.With a focus on clean code and performance, I strive to build robust solutions for complex challenges. 
-</b>
+  <b>I’m passionate IT Undergraduate at IIT Sri Lanka with experience in React.js, Node.js, and Express.js. With a focus on clean code and performance, I strive to build robust solutions for complex challenges.</b>
 </h4>
 
 <ul style="color: orange; text-align: left;">
@@ -52,8 +51,12 @@
 
 <br><br>
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduA&theme=tokyonight&background=00000000&border=FF9102&stroke=FF9102&ring=FF9102&fire=FF9102&currStreakNum=FF9102&sideNums=FF9102&currStreakLabel=FF9102&sideLabels=FF9102&dates=FF9102" alt="HarinduA"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&custom_title=HarinduA%27s%20GitHub%20Stats" />
   <br><br>
-  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarinduA&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=github_dark" />
 </p>
