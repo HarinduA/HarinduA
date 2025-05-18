@@ -54,14 +54,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Trophy / Octocat style stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=HarinduA&theme=onedark&no-bg=true&no-frame=true&title=Stars,Commits,PullRequest,Issues,Repositories" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true&include_all_commits=true&disable_animations=false" />
   <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarinduA&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-  <!-- GitHub Readme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HarinduA&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&custom_title=HarinduA%27s%20GitHub%20Stats" />
-  <br><br>
+<br>
 
-  <!-- Streak Stats -->
-  
+<p align="center">
+  <img height="230em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarinduA&theme=github_dark" />
 </p>
